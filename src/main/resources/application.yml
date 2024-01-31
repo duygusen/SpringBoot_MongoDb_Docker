@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: Student
+      host: springboot-mongodb-docker
+      port: 27017
