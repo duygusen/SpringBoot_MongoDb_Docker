@@ -2,5 +2,7 @@ spring:
   data:
     mongodb:
       database: Student
-      host: springboot-mongodb-docker
+      host: 172.19.0.2
       port: 27017
+server:
+  port: 8080
